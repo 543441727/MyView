@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Candle/Candle.iml" filepath="$PROJECT_DIR$/Candle/Candle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CircleView/CircleView.iml" filepath="$PROJECT_DIR$/CircleView/CircleView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DetailTest/DetailTest.iml" filepath="$PROJECT_DIR$/DetailTest/DetailTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EventBusTest/EventBusTest.iml" filepath="$PROJECT_DIR$/EventBusTest/EventBusTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HttpRequestTest/HttpRequestTest.iml" filepath="$PROJECT_DIR$/HttpRequestTest/HttpRequestTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyView.iml" filepath="$PROJECT_DIR$/MyView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VerificationCode/VerificationCode.iml" filepath="$PROJECT_DIR$/VerificationCode/VerificationCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meituan/meituan.iml" filepath="$PROJECT_DIR$/meituan/meituan.iml" />
+    </modules>
+  </component>
+</project>

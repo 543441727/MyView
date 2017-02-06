@@ -1,0 +1,1 @@
+include ':app', ':VerificationCode', ':CircleView', ':meituan', ':EventBusTest', ':DetailTest', ':Candle', ':HttpRequestTest'
